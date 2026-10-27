@@ -477,3 +477,4 @@ def obter_snippets():
         "template_arduino": TEMPLATE_SKETCH_ARDUINO
     }
 
+
