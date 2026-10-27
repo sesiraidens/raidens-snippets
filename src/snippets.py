@@ -476,8 +476,3 @@ def obter_snippets():
         "log": SNIPPET_LOG,
         "template_arduino": TEMPLATE_SKETCH_ARDUINO
     }
-
-
-
-
-
